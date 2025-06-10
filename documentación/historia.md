@@ -1,8 +1,7 @@
 ### Parte 1:
 
+	1. Acceder al repositorio [Repositorio](www.google.es)
 
-	1. Acceder al repositorio https://github.com/calderin21/ecommerce
-	
 	2. Clonarlo en mi equipo: 
 
 	 - git clone https://github.com/calderin21/ecommerce
