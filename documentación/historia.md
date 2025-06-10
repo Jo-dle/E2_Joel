@@ -1,4 +1,4 @@
-Parte 1:
+### Parte 1:
 
 
 	1. Acceder al repositorio https://github.com/calderin21/ecommerce
@@ -16,7 +16,7 @@ Parte 1:
 	 - git checkout Jo-dle
 
 
-Parte 2:
+### Parte 2:
 
 	1. Crea un nuevo repositorio con tu nombre y apellido:
 
@@ -36,7 +36,7 @@ Parte 2:
 	
 	 - nano README.md 
 
-Parte 3:
+### Parte 3:
 
 	1. Crea una carpeta llamada documentación y un archivo md llamado historia donde documentes todo lo realizado en el examen
 
@@ -47,7 +47,7 @@ Parte 3:
 
 	2. Haz add,commit y push de los archivos
 
-	* git add .
-	* git commit -m "Parte 3 apartado 2"
+	- git add .
+	- git commit -m "Parte 3 apartado 2"
 	
 	
